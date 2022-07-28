@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ninjajuk
+- 👋 Hi, I’m SAMSUDDIN ANSARI
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning and coding in Javascript, React, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
