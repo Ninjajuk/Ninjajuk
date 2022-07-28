@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ninjajuk
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning and coding in Javascript, React, HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 
 
