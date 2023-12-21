@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninjajuk&show_icons=true&locale=en" alt="ninjajuk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninjajuk&" alt="ninjajuk" /></p>
+
+<h1>Thats All</h1>
