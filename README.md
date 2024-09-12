@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="mailto:biosamsuddin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://www.linkedin.com/in/samsuddin-ansari](https://www.linkedin.com/in/samsuddin-ansari-232904143/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgkVech5HQc%2Bm2r3ms1ZNEQ%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/samsuddin-ansari-232904143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
