@@ -17,7 +17,7 @@
 
 ### 🌟 About Me
 
-- 🌱 **Currently working on:** A **Bus Ticket Booking Application** using the MERN stack.
+- 🌱 **Currently working on:** A **Bus Ticket Booking Application** using the MERN stack.Learning AI and ML
 - 💼 **Past Projects:** 
   - Built a full-stack **eCommerce application**.
   - Developed an **Edutech website** and a **hotel booking application**.
