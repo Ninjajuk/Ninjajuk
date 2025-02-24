@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <strong style="color:red;font-size:45px;">Samsuddin Ansari</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong style="color:red;font-size:45;">Samsuddin Ansari</strong></h1>
 <h3 align="center">FullStack Developer from India</h3>
 
 <p align="center">
